@@ -1,4 +1,1 @@
-*.idea
-*.jar
-*.iml
-/out/*
+__pycache__
