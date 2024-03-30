@@ -1,9 +1,7 @@
-from solutions import p_0001 as sol
+from solutions import p_0189 as sol
 
 ob = sol.Solution()
 
-result = ob.two_sum([2,7,11,15], 9)
-print(result)
-result = ob.two_sum([3,2,4], 6)
-print(result)
+result = ob.rotate([1,2,3,4,5,6,7], 3)
 
+print(result)
