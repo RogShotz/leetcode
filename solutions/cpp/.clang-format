@@ -1,0 +1,7 @@
+BasedOnStyle: Google
+IndentWidth: 4
+ColumnLimit: 100
+BraceWrapping:
+  AfterFunction: false   # Put { on the same line for functions
+  AfterClass: false      # Put { on the same line for classes
+  AfterControlStatement: false  # if, for, while etc.
